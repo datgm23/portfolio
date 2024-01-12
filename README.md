@@ -65,6 +65,19 @@ Voxelorer Birdひよこ編について、6種類のブロックの開発工程�
 - 開発期間：2023年8月-11月 2ヶ月半程度
 
 
+## カタチナゲル
+
+[<img src="images/katachi.png" alt="カタチナゲル" style="max-width: 360px; max-height: 360px">](https://am1.games/katachi/)
+
+[カタチナゲル](https://am1.games/katachi/)
+
+三種類の形を正しい方向に投げ分けて送る反射神経ゲーム。素早くミスなく正解することで高得点を目指しましょう!!
+
+- 開発環境：Godot4.2.1 + 互換性レンダラー + GDScript
+- 開発期間：2023年12月 2週間程度
+
+
+
 ## 連絡先
 - Webサイト [FROM RIVERSIDE](https://am1.jp)
 - ブログ [tanaka's Programming Memo](https://am1tanaka.hatenablog.com/)
